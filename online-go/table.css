@@ -1,19 +1,4 @@
 .Card {
-    div {
-        table {
-            width: 100%;
-            max-width: 100vw;
-            border-collapse: collapse;
-            tr {
-                border-bottom: solid 1px transparent;
-                border-bottom-color: gray;
-            }
-            th {
-                color: #919191;
-                font-weight: normal;
-            }
-        }
-    }
     div.ladder-configuration {
         table {
             tr {
@@ -21,6 +6,21 @@
             }
             th {
                 font-weight: bold;
+            }
+        }
+    }
+    div {
+        table {
+            width: 100%;
+            max-width: 100vw;
+            border-collapse: collapse;
+            tr {
+                border-bottom: solid 1px transparent;
+                border-bottom-color: #919191;
+            }
+            th {
+                color: #919191;
+                font-weight: normal;
             }
         }
     }
