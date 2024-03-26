@@ -19,6 +19,7 @@
                 border-bottom-color: #919191;
             }
             th {
+                text-align: left;
                 color: #919191;
                 font-weight: normal;
             }
