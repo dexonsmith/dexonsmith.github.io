@@ -17,12 +17,12 @@
             tr {
                 border-bottom: solid 1px transparent;
                 border-bottom-color: #919191;
-                thead {
-                    th {
-                        text-align: left;
-                        color: #919191;
-                        font-weight: normal;
-                    }
+            }
+            thead {
+                th {
+                    text-align: left;
+                    color: #919191;
+                    font-weight: normal;
                 }
             }
         }
