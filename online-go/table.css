@@ -1,5 +1,5 @@
 .Card {
-    div :not(ladder-configuration) {
+    div {
         table {
             width: 100%;
             max-width: 100vw;
@@ -11,6 +11,16 @@
             th {
                 color: #919191;
                 font-weight: normal;
+            }
+        }
+    }
+    .ladder-configuration {
+        table {
+            tr {
+                border-bottom: none
+            }
+            th {
+                font-weight: bold;
             }
         }
     }
