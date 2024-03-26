@@ -4,6 +4,9 @@
             tr {
                 border-bottom: inherit;
             }
+            th {
+                font-weight: bold;
+            }
         }
     }
     div {
