@@ -1,5 +1,5 @@
 .Card {
-    div {
+    div :not(ladder-configuration) {
         table {
             width: 100%;
             max-width: 100vw;
