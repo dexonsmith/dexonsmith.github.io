@@ -5,6 +5,7 @@
                 border-bottom: inherit;
             }
             th {
+                color: inherit;
                 font-weight: bold;
             }
         }
@@ -18,16 +19,10 @@
                 border-bottom: solid 1px transparent;
                 border-bottom-color: #919191;
             }
-            thead {
-                tr {
-                    border-bottom: solid 1px transparent;
-                    border-bottom-color: #919191;
-                    th {
-                        text-align: left;
-                        color: #919191;
-                        font-weight: normal;
-                    }
-                }
+            th {
+                text-align: left;
+                color: #919191;
+                font-weight: normal;
             }
         }
     }
