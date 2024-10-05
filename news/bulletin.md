@@ -96,6 +96,8 @@ Double-elimination (D.E.) tournaments.
 Round robin (league-style) tournaments.
 
 - Each player has a game against every other player, simultaneously.
+    - Rank-restricted tournaments have 5 players (4 games each).
+    - Open and handicap tournaments have 10 players (9 games each).
 - Rank-restricted tournaments aim for slightly closer matches. If you're not
   sure of your rank (or it shows as a `?`), join the ladders, open, and
   handicap tournaments, and [play ranked games](https://online-go.com/play)
