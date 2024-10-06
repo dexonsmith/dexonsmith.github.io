@@ -105,7 +105,7 @@ Round robin (league-style) tournaments.
 
 | Kind       | 9x9 | 13x13 | 19x19 |
 | ---------- | :-----: | :----: | :----: |
-| *Restricted: 25k-10k* | [register][league-25k10k-9-new] | [register][league-25k10k-13-3] | |
+| *Restricted: 25k-10k* | [register][league-25k10k-9-new] | [register][league-25k10k-13-new] | |
 | *Restricted: 15k-1k*  | [register][league-15k1k-9-new] | [register][league-15k1k-13-new] | |
 | *Restricted: 5k-9d+*   | [register][league-5k9d-9-new] | [register][league-5k9d-13-new] | |
 | *Handicap* | [register][league-handicap-9-new] | [register][league-handicap-13-new] | [register][league-handicap-19-new] |
@@ -117,7 +117,7 @@ Round robin (league-style) tournaments.
 [league-25k10k-9-new]: https://online-go.com/tournament/120783
 [league-15k1k-9-new]: https://online-go.com/tournament/120784
 [league-5k9d-9-new]: https://online-go.com/tournament/116418
-[league-25k10k-13-new]: https://online-go.com/tournament/120312
+[league-25k10k-13-new]: https://online-go.com/tournament/120884
 [league-15k1k-13-new]: https://online-go.com/tournament/120311
 [league-5k9d-13-new]: https://online-go.com/tournament/115741
 [league-open-19-new]: https://online-go.com/tournament/120175
@@ -176,6 +176,7 @@ Round robin (league-style) tournaments.
 [league-25k10k-13-2]: https://online-go.com/tournament/116040
 [league-25k10k-13-3]: https://online-go.com/tournament/116265
 [league-25k10k-13-9]: https://online-go.com/tournament/120312
+[league-25k10k-13-10]: https://online-go.com/tournament/120884
 [league-15k1k-13-1]: https://online-go.com/tournament/115740
 [league-15k1k-13-6]: https://online-go.com/tournament/120311
 [league-5k9d-13-1]: https://online-go.com/tournament/115741
