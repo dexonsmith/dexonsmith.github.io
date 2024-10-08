@@ -25,10 +25,10 @@ Double-elimination (D.E.) tournaments.
 - Each player has one game at a time and is eliminated after their second loss.
 - No rank restrictions. All players welcome!
 
-| Kind       |  9x9  | 13x13 | 19x19 |
-| ---------- | :---: | :---: | :---: |
-| *Handicap* | [register][de-handicap-9-new] | [register][de-handicap-13-new] | [register][de-handicap-19-new] |
-| *Open*     | [register][de-open-9-new] | [register][de-open-13-new] | [register][de-open-19-new] |
+| Kind       | Players | Rounds | 9x9  | 13x13 | 19x19 |
+| ---------- | :-----: | :----: | :---: | :---: | :---: |
+| *Handicap* | 8 | 2-7 | [register][de-handicap-9-new] | [register][de-handicap-13-new] | [register][de-handicap-19-new] |
+| *Open*     | 8 | 2-7 | [register][de-open-9-new] | [register][de-open-13-new] | [register][de-open-19-new] |
 
 [de-handicap-9-new]: https://online-go.com/tournament/120860
 [de-handicap-13-new]: https://online-go.com/tournament/120668
@@ -103,13 +103,13 @@ Round robin (league-style) tournaments.
   handicap tournaments, and [play ranked games](https://online-go.com/play)
   elsewhere on OGS.
 
-| Kind       | 9x9 | 13x13 | 19x19 |
-| ---------- | :-----: | :----: | :----: |
-| *Restricted: 25k-10k* | [register][league-25k10k-9-new] | [register][league-25k10k-13-new] | |
-| *Restricted: 15k-1k*  | [register][league-15k1k-9-new] | [register][league-15k1k-13-new] | |
-| *Restricted: 5k-9d+*   | [register][league-5k9d-9-new] | [register][league-5k9d-13-new] | |
-| *Handicap* | [register][league-handicap-9-new] | [register][league-handicap-13-new] | [register][league-handicap-19-new] |
-| *Open*    | | | [register][league-open-19-new] |
+| Kind       | Players | Rounds | 9x9  | 13x13 | 19x19 |
+| ---------- | :-----: | :----: | :---: | :---: | :---: |
+| *Restricted: 25k-10k* | 5 | 1 | [register][league-25k10k-9-new] | [register][league-25k10k-13-new] | |
+| *Restricted: 15k-1k*  | 5 | 1 | [register][league-15k1k-9-new] | [register][league-15k1k-13-new] | |
+| *Restricted: 5k-9d+*  | 5 | 1 | [register][league-5k9d-9-new] | [register][league-5k9d-13-new] | |
+| *Handicap* | 10 | 1 | [register][league-handicap-9-new] | [register][league-handicap-13-new] | [register][league-handicap-19-new] |
+| *Open*     | 10 | 1 | | | [register][league-open-19-new] |
 
 [league-handicap-9-new]: https://online-go.com/tournament/119665
 [league-handicap-13-new]: https://online-go.com/tournament/120419
@@ -120,7 +120,7 @@ Round robin (league-style) tournaments.
 [league-25k10k-13-new]: https://online-go.com/tournament/120884
 [league-15k1k-13-new]: https://online-go.com/tournament/120311
 [league-5k9d-13-new]: https://online-go.com/tournament/115741
-[league-open-19-new]: https://online-go.com/tournament/120175
+[league-open-19-new]: https://online-go.com/tournament/120959
 
 [league-handicap-9-1]: https://online-go.com/tournament/112544
 [league-handicap-9-2]: https://online-go.com/tournament/112959
@@ -195,3 +195,4 @@ Round robin (league-style) tournaments.
 [league-open-19-5]: https://online-go.com/tournament/114747
 [league-open-19-6]: https://online-go.com/tournament/115794
 [league-open-19-10]: https://online-go.com/tournament/120175
+[league-open-19-11]: https://online-go.com/tournament/120959
