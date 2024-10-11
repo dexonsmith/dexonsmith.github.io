@@ -35,7 +35,7 @@ Double-elimination (D.E.) tournaments.
 [de-handicap-19-new]: https://online-go.com/tournament/120859
 [de-open-9-new]: https://online-go.com/tournament/119949
 [de-open-13-new]: https://online-go.com/tournament/119950
-[de-open-19-new]: https://online-go.com/tournament/120314
+[de-open-19-new]: https://online-go.com/tournament/121036
 
 [de-handicap-9-1]: https://online-go.com/tournament/112486
 [de-handicap-9-2]: https://online-go.com/tournament/112551
@@ -90,6 +90,7 @@ Double-elimination (D.E.) tournaments.
 [de-open-19-7]: https://online-go.com/tournament/115259
 [de-open-19-8]: https://online-go.com/tournament/115957
 [de-open-19-14]: https://online-go.com/tournament/120314
+[de-open-19-15]: https://online-go.com/tournament/121036
 
 ### League-style tournaments
 
