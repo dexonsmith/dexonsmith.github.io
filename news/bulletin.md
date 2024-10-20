@@ -33,8 +33,8 @@ Double-elimination (D.E.) tournaments.
 [de-handicap-9-new]: https://online-go.com/tournament/120860
 [de-handicap-13-new]: https://online-go.com/tournament/121211
 [de-handicap-19-new]: https://online-go.com/tournament/121285
-[de-open-9-new]: https://online-go.com/tournament/119949
-[de-open-13-new]: https://online-go.com/tournament/119950
+[de-open-9-new]: https://online-go.com/tournament/121349
+[de-open-13-new]: https://online-go.com/tournament/121350
 [de-open-19-new]: https://online-go.com/tournament/121036
 
 [de-handicap-9-1]: https://online-go.com/tournament/112486
@@ -75,6 +75,7 @@ Double-elimination (D.E.) tournaments.
 [de-open-9-4]: https://online-go.com/tournament/114189
 [de-open-9-5]: https://online-go.com/tournament/115172
 [de-open-9-10]: https://online-go.com/tournament/119949
+[de-open-9-11]: https://online-go.com/tournament/121349
 [de-open-13-1]: https://online-go.com/tournament/112517
 [de-open-13-2]: https://online-go.com/tournament/112651
 [de-open-13-3]: https://online-go.com/tournament/113185
@@ -83,6 +84,7 @@ Double-elimination (D.E.) tournaments.
 [de-open-13-6]: https://online-go.com/tournament/114604
 [de-open-13-7]: https://online-go.com/tournament/115585
 [de-open-13-10]: https://online-go.com/tournament/119950
+[de-open-13-11]: https://online-go.com/tournament/121350
 [de-open-19-1]: https://online-go.com/tournament/112488
 [de-open-19-2]: https://online-go.com/tournament/112652
 [de-open-19-3]: https://online-go.com/tournament/112990
