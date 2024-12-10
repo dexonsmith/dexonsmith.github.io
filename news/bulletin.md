@@ -128,7 +128,7 @@ Round robin (league-style) tournaments.
 | *Open*     | 10 | 1 | | | [register][league-open-19-new] |
 
 [league-handicap-9-new]: https://online-go.com/tournament/122355
-[league-handicap-13-new]: https://online-go.com/tournament/121448
+[league-handicap-13-new]: https://online-go.com/tournament/123061
 [league-handicap-19-new]: https://online-go.com/tournament/122433
 [league-25k10k-9-new]: https://online-go.com/tournament/122602
 [league-15k1k-9-new]: https://online-go.com/tournament/122342
@@ -152,6 +152,7 @@ Round robin (league-style) tournaments.
 [league-handicap-13-3]: https://online-go.com/tournament/114339
 [league-handicap-13-4]: https://online-go.com/tournament/115621
 [league-handicap-13-8]: https://online-go.com/tournament/121448
+[league-handicap-13-9]: https://online-go.com/tournament/123061
 [league-handicap-19-1]: https://online-go.com/tournament/112547
 [league-handicap-19-2]: https://online-go.com/tournament/113198
 [league-handicap-19-3]: https://online-go.com/tournament/113380
