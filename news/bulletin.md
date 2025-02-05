@@ -30,7 +30,7 @@ Double-elimination (D.E.) tournaments.
 | *Handicap* | 8 | 2-7 | [register][de-handicap-9-new] | [register][de-handicap-13-new] | [register][de-handicap-19-new] |
 | *Open*     | 8 | 2-7 | [register][de-open-9-new] | [register][de-open-13-new] | [register][de-open-19-new] |
 
-[de-handicap-9-new]: https://online-go.com/tournament/124049
+[de-handicap-9-new]: https://online-go.com/tournament/125075
 [de-handicap-13-new]: https://online-go.com/tournament/124134
 [de-handicap-19-new]: https://online-go.com/tournament/124582
 [de-open-9-new]: https://online-go.com/tournament/124885
@@ -51,6 +51,7 @@ Double-elimination (D.E.) tournaments.
 [de-handicap-9-16]: https://online-go.com/tournament/123419
 [de-handicap-9-17]: https://online-go.com/tournament/123781
 [de-handicap-9-18]: https://online-go.com/tournament/124049
+[de-handicap-9-19]: https://online-go.com/tournament/125075
 [de-handicap-13-1]: https://online-go.com/tournament/112490
 [de-handicap-13-2]: https://online-go.com/tournament/112646
 [de-handicap-13-3]: https://online-go.com/tournament/113235
